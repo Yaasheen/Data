@@ -577,3 +577,6 @@ narendra
 prime
 prime minister
 minister
+pm
+modis
+india
